@@ -9,7 +9,7 @@ I'm a passionate **Cloud Engineer** with experience in **Microsoft Azure, DevOps
 
 - 🌱 Currently learning: **Advanced DevOps practices and cloud-native applications to enhance automation skills.**
 - 🔭 Working on: **Developing an interactive professional website using HTML, CSS and GitHub Pages for hosting**
-- 🌍 Languages: **[Python and speak in English]**
+- 🌍 Languages: **Python and speak in English**
 - 📫 How to reach me: **debasis.saha.india@gmail.com**
 - ⚡ Fun fact: **I’m a traveler at heart and love discovering new destinations 🌍!**
 
