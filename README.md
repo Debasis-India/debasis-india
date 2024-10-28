@@ -21,7 +21,7 @@ I'm a passionate **Cloud Engineer** with experience in **Microsoft Azure, DevOps
 ![GITHUB](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
 
-## Featured Projects 💻
+## Featured Projects 🖥️
 
 ### [IFS Disaster Recovery Implementation]
 
