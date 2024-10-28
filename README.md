@@ -29,7 +29,7 @@ I'm a passionate **Cloud Engineer** with experience in **Microsoft Azure, DevOps
 
 ### [Cloud Migration from On-Premises]
 
-**[Cloud Migration from On-Premises]** involved migrating legacy infrastructure to the cloud, transforming on-premise systems into scalable, cloud-native architectures. As an Cloud Engineer, I assisted in planning and executing the migration of virtual machines, data storage, and applications to Microsoft Azure. This project showcases my hands-on experience in cloud migration, resource optimization, and working closely with development teams for seamless integration. 
+**Cloud Migration from On-Premises** involved migrating legacy infrastructure to the cloud, transforming on-premise systems into scalable, cloud-native architectures. As an Cloud Engineer, I assisted in planning and executing the migration of virtual machines, data storage, and applications to Microsoft Azure. This project showcases my hands-on experience in cloud migration, resource optimization, and working closely with development teams for seamless integration. 
 
 ## Get in Touch 📬
 
